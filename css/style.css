@@ -202,7 +202,15 @@ iframe {
 .framee{
   margin-left: 1rem;
   font-size: 20px;
+  margin-top: 2rem;
 }
+@media (max-width: 991px) {
+  .framee{
+    font-size: 20px;
+    margin-top: 2rem;
+  }
+}
+
 
 #back-to-top {
   width: 30px;
