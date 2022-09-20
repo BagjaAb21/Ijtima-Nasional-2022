@@ -881,10 +881,10 @@ ul.pattern .color6 {
   }
 }
 
-/* .bg-home4 {
+.bg-home4 {
   padding: 160px 0 50px 0;
-  background-color: rgba(68, 207, 112, 0.844);
-} */
+  background-color: #f9ebe6f7;
+}
 
 .shape {
   position: absolute;
